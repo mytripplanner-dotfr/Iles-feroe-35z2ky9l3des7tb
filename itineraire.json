@@ -1,0 +1,136 @@
+{
+  "pays": "Îles Féroé",
+  "drapeau": "🇫🇴",
+  "symbole": "🐑",
+  "titre": "Évasion relaxante au cœur des Îles Féroé",
+  "budget_total": "Environ 1500-1600 € par personne",
+  "duree": "4 jours",
+  "temps_vol": "Environ 6h (avec escale) depuis Paris, France",
+  "escale": "1",
+  "jours": [
+    {
+      "jour": 1,
+      "symbole": "🛬",
+      "titre": "Arrivée et douceur à Tórshavn",
+      "legende": "Débutez votre aventure féroïenne en douceur, en vous imprégnant de l'atmosphère paisible de la capitale. Installez-vous et profitez d'une première balade relaxante dans ses ruelles historiques.",
+      "lieu": "Tórshavn",
+      "activites": [
+        "<strong>🛬 Arrivée à l'aéroport de Vágar (FAE)</strong>: Récupération de la voiture de location, essentielle pour explorer les îles, puis route panoramique vers Tórshavn (environ 45 min).",
+        "<strong>🛏️ Installation à l'hôtel</strong>: Prenez vos quartiers dans votre hébergement confortable à Tórshavn, la plus petite capitale du monde.",
+        "<strong>🚶‍♀️ Balade dans le quartier historique de Tinganes</strong>: Explorez les charmantes ruelles pavées, les maisons de bois aux toits en herbe et le port animé, cœur politique et historique des Féroé."
+      ],
+      "illustration": "jour1.jpg",
+      "encarts": [
+        {
+          "symbole": "🚗",
+          "titre": "Location de voiture",
+          "texte": "La voiture est indispensable pour découvrir les Îles Féroé. Réservez-la à l'avance, surtout en haute saison, pour garantir la disponibilité et de meilleurs tarifs."
+        },
+        {
+          "symbole": "🌦️",
+          "titre": "Météo imprévisible",
+          "texte": "Le temps change rapidement aux Féroé. Prévoyez toujours des couches de vêtements, un imperméable et des chaussures de marche robustes, même pour une balade douce."
+        }
+      ]
+    },
+    {
+      "jour": 2,
+      "symbole": "🏞️",
+      "titre": "Sérénité côtière et villages pittoresques",
+      "legende": "Laissez-vous charmer par les paysages côtiers spectaculaires et la quiétude des villages traditionnels. Une journée dédiée à la contemplation et aux balades douces, loin de l'agitation.",
+      "lieu": "Eysturoy / Streymoy (Nord)",
+      "activites": [
+        "<strong>🚗 Route panoramique vers Gjógv</strong>: Empruntez les routes sinueuses offrant des vues imprenables sur les fjords et les falaises, en direction de ce village emblématique du nord d'Eysturoy.",
+        "<strong>🚶‍♀️ Promenade douce à Gjógv</strong>: Explorez le port naturel unique creusé dans la roche et les maisons colorées. Profitez d'une marche facile le long de la côte pour admirer les paysages.",
+        "<strong>☕ Pause café avec vue</strong>: Détendez-vous dans le petit café de Gjógv ou un autre établissement local, savourant une boisson chaude face à l'océan Atlantique."
+      ],
+      "illustration": "jour2.jpg",
+      "encarts": [
+        {
+          "symbole": "🐑",
+          "titre": "Rencontres inattendues",
+          "texte": "Les moutons sont omniprésents aux Féroé. Soyez attentif sur les routes, ils ont la priorité et peuvent surgir à tout moment. Ralentissez et profitez de leur présence paisible."
+        },
+        {
+          "symbole": "🍽️",
+          "titre": "Cuisine locale",
+          "texte": "Goûtez aux spécialités féroïennes comme le poisson frais, l'agneau ou le 'ræst' (viande fermentée). Les restaurants proposent souvent des plats réconfortants et savoureux."
+        }
+      ]
+    },
+    {
+      "jour": 3,
+      "symbole": "⛰️",
+      "titre": "Majesté des falaises et panoramas apaisants",
+      "legende": "Découvrez des vues emblématiques des Féroé, entre falaises imposantes et étendues verdoyantes. Une journée pour se ressourcer au contact d'une nature grandiose et préservée.",
+      "lieu": "Vágar",
+      "activites": [
+        "<strong>🚗 Exploration de l'île de Vágar</strong>: Retournez vers l'ouest pour explorer l'île de Vágar, réputée pour ses paysages spectaculaires et ses sites iconiques, facilement accessibles en voiture.",
+        "<strong>🚶‍♀️ Balade vers le lac Sørvágsvatn (Leitisvatn)</strong>: Profitez d'une marche facile (environ 1h30 aller-retour) pour admirer le célèbre \"lac flottant\" qui semble surplomber l'océan, une illusion d'optique fascinante.",
+        "<strong>📸 Visite du village de Gásadalur et sa cascade Múlafossur</strong>: Un arrêt incontournable pour sa beauté photogénique. La cascade se jette directement dans l'océan, offrant un spectacle apaisant et majestueux."
+      ],
+      "illustration": "jour3.jpg",
+      "encarts": [
+        {
+          "symbole": "🏞️",
+          "titre": "Respect de la nature",
+          "texte": "Les paysages féroïens sont fragiles. Restez sur les sentiers balisés, ne laissez aucun déchet et respectez la faune et la flore locales pour préserver cette beauté unique."
+        },
+        {
+          "symbole": "💡",
+          "titre": "Lumière unique",
+          "texte": "Les Féroé offrent une lumière changeante et souvent dramatique, idéale pour la photographie. Préparez votre appareil pour capturer des ambiances inoubliables."
+        }
+      ]
+    },
+    {
+      "jour": 4,
+      "symbole": "🛫",
+      "titre": "Derniers instants féroïens et départ",
+      "legende": "Profitez d'une dernière immersion dans la culture et la nature féroïennes avant de prendre votre vol retour. Emportez avec vous des souvenirs de sérénité et de paysages grandioses.",
+      "lieu": "Tórshavn / Vágar",
+      "activites": [
+        "<strong>🛍️ Achats de souvenirs à Tórshavn</strong>: Flânez dans les boutiques de la capitale pour trouver des produits locaux, notamment des articles en laine féroïenne, de l'artisanat ou des spécialités culinaires.",
+        "<strong>🍽️ Déjeuner typique</strong>: Savourez un dernier repas féroïen dans un restaurant de Tórshavn, l'occasion de goûter une dernière fois aux saveurs locales avant votre départ.",
+        "<strong>🛫 Départ de l'aéroport de Vágar (FAE)</strong>: Restitution de la voiture de location à l'aéroport et vol retour vers Paris, la tête pleine de souvenirs inoubliables."
+      ],
+      "illustration": "jour4.jpg",
+      "encarts": [
+        {
+          "symbole": "⏰",
+          "titre": "Temps d'avance",
+          "texte": "L'aéroport de Vágar est petit, mais prévoyez tout de même un temps suffisant pour la restitution de la voiture et l'enregistrement, surtout si votre vol est tôt le matin."
+        },
+        {
+          "symbole": "💳",
+          "titre": "Monnaie locale",
+          "texte": "La monnaie est la Couronne Danoise (DKK). Les cartes de crédit sont largement acceptées, mais il est toujours utile d'avoir un peu de liquide pour les petits achats ou les villages isolés."
+        }
+      ]
+    }
+  ],
+  "detail_budget": [
+    { "titre": "Budget vol:", "legende": "A partir de 489 €/pers", "symbole": "🛬" },
+    { "titre": "Budget transports:", "legende": "Environ 250 €/pers (location voiture, essence, tunnels)", "symbole": "🚗" },
+    { "titre": "Budget repas:", "legende": "Environ 280 €/pers (70€/jour)", "symbole": "🥗" },
+    { "titre": "Budget logement:", "legende": "Environ 450 €/pers (3 nuits en hôtel 3* base chambre double)", "symbole": "🛏️" },
+    { "titre": "Budget activités:", "legende": "Environ 50 €/pers (principalement des balades gratuites)", "symbole": "🎭" }
+  ],
+  "periodes_ideales": [
+    { "titre": "Mai à Septembre", "symbole": "☀️" },
+    { "titre": "Juin à Août (pour le meilleur temps)", "symbole": "🌻" }
+  ],
+  "infos_pratiques": [
+    { "titre": "Les températures varient entre 8 et 15°C en été. Prévoir des vêtements chauds, imperméables et coupe-vent, quelle que soit la saison.", "symbole": "🌦️" },
+    { "titre": "La monnaie est la Couronne Danoise (DKK). Les cartes de crédit sont acceptées partout. Un peu de liquide peut être utile dans les petits villages.", "symbole": "💳" },
+    { "titre": "La location de voiture est fortement recommandée. Conduite à droite. Attention aux moutons sur les routes et aux tunnels payants (inclus dans la location ou à payer sur place).", "symbole": "🚗" },
+    { "titre": "La couverture mobile est bonne dans la plupart des zones habitées. Le Wi-Fi est disponible dans la majorité des hébergements et cafés.", "symbole": "📶" },
+    { "titre": "Le fuseau horaire est GMT+0 (une heure de moins qu'à Paris en été).", "symbole": "⏰" }
+  ],
+  "liens_utiles": [
+    { "legende": "Vols", "titre": "Réservez votre vol", "url": "https://www.kayak.fr/flights/CDG-FAE/2025-06-10/2025-06-13", "symbole": "🛬" },
+    { "legende": "Infos officielles et inspirations", "titre": "Visit Faroe Islands", "url": "https://visitfaroeislands.com/", "symbole": "📘" },
+    { "legende": "Location de voiture", "titre": "Réservez votre voiture", "url": "https://www.rentalcars.com/fr/country/fo/", "symbole": "🚗" },
+    { "legende": "Météo", "titre": "Météo Féroé (DMI)", "url": "https://www.dmi.dk/faeroerne/", "symbole": "🌤️" }
+  ]
+}
